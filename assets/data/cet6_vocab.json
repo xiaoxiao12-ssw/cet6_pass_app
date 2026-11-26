@@ -1,0 +1,1638 @@
+[
+  {
+    "id": "cet6_001",
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "meanings": [
+      "v. 恶化，变坏",
+      "v. 退化，衰落"
+    ],
+    "exampleEn": "Without timely intervention, urban air quality tends to deteriorate sharply in winter.",
+    "exampleZh": "如果不及时干预，城市空气质量在冬季往往会急剧恶化。"
+  },
+  {
+    "id": "cet6_002",
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "meanings": [
+      "adj. 模棱两可的，含糊不清的",
+      "adj. 引起歧义的"
+    ],
+    "exampleEn": "The wording of the contract remained deliberately ambiguous regarding overtime pay.",
+    "exampleZh": "合同中关于加班费的措辞被刻意写得模棱两可。"
+  },
+  {
+    "id": "cet6_003",
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃl/",
+    "meanings": [
+      "adj. 大量的，可观的",
+      "adj. 实质性的，重大的"
+    ],
+    "exampleEn": "Renewable energy investments have yielded a substantial reduction in carbon emissions.",
+    "exampleZh": "可再生能源投资已带来相当可观的碳排放削减。"
+  },
+  {
+    "id": "cet6_004",
+    "word": "spontaneous",
+    "phonetic": "/spɒnˈteɪniəs/",
+    "meanings": [
+      "adj. 自发的，自然产生的",
+      "adj. 非人为策划的"
+    ],
+    "exampleEn": "The pianist’s encore drew spontaneous applause from the entire concert hall.",
+    "exampleZh": "钢琴家的返场演出赢得了全场观众自发的掌声。"
+  },
+  {
+    "id": "cet6_005",
+    "word": "dilemma",
+    "phonetic": "/dɪˈlemə/",
+    "meanings": [
+      "n. 进退两难的困境",
+      "n. 左右为难的局面"
+    ],
+    "exampleEn": "Policy makers face an acute dilemma between stimulating growth and curbing inflation.",
+    "exampleZh": "政策制定者在刺激增长与抑制通胀之间面临严峻的两难困境。"
+  },
+  {
+    "id": "cet6_006",
+    "word": "undermine",
+    "phonetic": "/ˌʌndəˈmaɪn/",
+    "meanings": [
+      "v. 逐渐削弱，暗中破坏",
+      "v. 损害（信心/权威）"
+    ],
+    "exampleEn": "Chronic misinformation can seriously undermine public trust in scientific institutions.",
+    "exampleZh": "长期的虚假信息会严重削弱公众对科研机构的信任。"
+  },
+  {
+    "id": "cet6_007",
+    "word": "vulnerable",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "meanings": [
+      "adj. 脆弱的，易受伤害的",
+      "adj. 易受攻击/影响的"
+    ],
+    "exampleEn": "Coastal communities are increasingly vulnerable to extreme weather events.",
+    "exampleZh": "沿海社区越来越容易受到极端天气事件的冲击。"
+  },
+  {
+    "id": "cet6_008",
+    "word": "controversial",
+    "phonetic": "/ˌkɒntrəˈvɜːʃl/",
+    "meanings": [
+      "adj. 有争议的，引发争论的"
+    ],
+    "exampleEn": "The proposal to regulate generative AI remains highly controversial among experts.",
+    "exampleZh": "监管生成式人工智能的提案在专家之间仍存在极大争议。"
+  },
+  {
+    "id": "cet6_009",
+    "word": "prevalent",
+    "phonetic": "/ˈprevələnt/",
+    "meanings": [
+      "adj. 普遍的，盛行的，流行的"
+    ],
+    "exampleEn": "Burnout has become increasingly prevalent among young professionals in big cities.",
+    "exampleZh": "职业倦怠在大城市的年轻职场人中变得愈发普遍。"
+  },
+  {
+    "id": "cet6_010",
+    "word": "alleviate",
+    "phonetic": "/əˈliːvieɪt/",
+    "meanings": [
+      "v. 缓解，减轻（痛苦/压力/贫困）"
+    ],
+    "exampleEn": "Targeted subsidies were introduced to alleviate the financial burden on low-income families.",
+    "exampleZh": "出台定向补贴旨在减轻低收入家庭的经济负担。"
+  },
+  {
+    "id": "cet6_011",
+    "word": "inevitable",
+    "phonetic": "/ɪnˈevɪtəbl/",
+    "meanings": [
+      "adj. 不可避免的，必然发生的"
+    ],
+    "exampleEn": "Structural adjustments in the labor market are inevitable as automation advances.",
+    "exampleZh": "随着自动化推进，劳动力市场的结构性调整不可避免。"
+  },
+  {
+    "id": "cet6_012",
+    "word": "implement",
+    "phonetic": "/ˈɪmplɪment/",
+    "meanings": [
+      "v. 实施，贯彻执行",
+      "n. 工具，器具"
+    ],
+    "exampleEn": "Schools need adequate funding to implement digital literacy programs effectively.",
+    "exampleZh": "学校需要充足资金才能有效实施数字素养课程。"
+  },
+  {
+    "id": "cet6_013",
+    "word": "incentive",
+    "phonetic": "/ɪnˈsentɪv/",
+    "meanings": [
+      "n. 激励，刺激，动机"
+    ],
+    "exampleEn": "Tax rebates provide enterprises with a strong incentive to adopt green technologies.",
+    "exampleZh": "税收减免为企业采用绿色技术提供了强有力的激励。"
+  },
+  {
+    "id": "cet6_014",
+    "word": "sustain",
+    "phonetic": "/səˈsteɪn/",
+    "meanings": [
+      "v. 维持，支撑",
+      "v. 遭受（损失/伤害）"
+    ],
+    "exampleEn": "Rapid industrial expansion cannot be sustained at the expense of ecological balance.",
+    "exampleZh": "以生态平衡为代价的高速工业扩张是无法持续的。"
+  },
+  {
+    "id": "cet6_015",
+    "word": "discrepancy",
+    "phonetic": "/dɪˈskrepənsi/",
+    "meanings": [
+      "n. 差异，不一致，出入"
+    ],
+    "exampleEn": "Auditors uncovered a glaring discrepancy between reported profits and cash flow.",
+    "exampleZh": "审计人员发现申报利润与现金流之间存在明显出入。"
+  },
+  {
+    "id": "cet6_016",
+    "word": "precedent",
+    "phonetic": "/ˈpresɪdənt/",
+    "meanings": [
+      "n. 先例，范例，惯例"
+    ],
+    "exampleEn": "The court’s ruling set an important legal precedent for digital copyright protection.",
+    "exampleZh": "法院的裁决为数字版权保护树立了重要的法律先例。"
+  },
+  {
+    "id": "cet6_017",
+    "word": "compatible",
+    "phonetic": "/kəmˈpætəbl/",
+    "meanings": [
+      "adj. 兼容的，可共存的",
+      "adj. 和睦相处的"
+    ],
+    "exampleEn": "Economic development is fully compatible with long-term environmental stewardship.",
+    "exampleZh": "经济发展与长期环境保护完全可以并行不悖。"
+  },
+  {
+    "id": "cet6_018",
+    "word": "plausible",
+    "phonetic": "/ˈplɔːzəbl/",
+    "meanings": [
+      "adj. 貌似合理的，似乎可信的"
+    ],
+    "exampleEn": "Researchers proposed a plausible explanation for the sudden drop in bee populations.",
+    "exampleZh": "研究人员对蜜蜂数量骤降提出了一个看似合理的解释。"
+  },
+  {
+    "id": "cet6_019",
+    "word": "proliferate",
+    "phonetic": "/prəˈlɪfəreɪt/",
+    "meanings": [
+      "v. 激增，迅速扩散，大量繁殖"
+    ],
+    "exampleEn": "Short-form video platforms have proliferated across global mobile markets in recent years.",
+    "exampleZh": "近年来，短视频平台在全球移动市场上迅速扩张。"
+  },
+  {
+    "id": "cet6_020",
+    "word": "mitigate",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "meanings": [
+      "v. 缓和，减轻（风险/危害）"
+    ],
+    "exampleEn": "Urban wetlands play a vital role in mitigating the impact of seasonal floods.",
+    "exampleZh": "城市湿地在减轻季节性洪水影响方面发挥着关键作用。"
+  },
+  {
+    "id": "cet6_021",
+    "word": "exacerbate",
+    "phonetic": "/ɪɡˈzæsəbeɪt/",
+    "meanings": [
+      "v. 使恶化，加剧，激怒"
+    ],
+    "exampleEn": "Prolonged droughts have exacerbated food insecurity across several regions.",
+    "exampleZh": "持续干旱加剧了多个地区的粮食不安全状况。"
+  },
+  {
+    "id": "cet6_022",
+    "word": "perpetuate",
+    "phonetic": "/pəˈpetʃueɪt/",
+    "meanings": [
+      "v. 使永久化，使长期持续"
+    ],
+    "exampleEn": "Biased algorithms risk perpetuating existing inequalities in hiring decisions.",
+    "exampleZh": "存在偏见的算法可能会使招聘决策中的既有不平等长期延续。"
+  },
+  {
+    "id": "cet6_023",
+    "word": "scrutinize",
+    "phonetic": "/ˈskruːtənaɪz/",
+    "meanings": [
+      "v. 仔细检查，严格审查"
+    ],
+    "exampleEn": "Regulators began to scrutinize how tech firms collect and monetize personal data.",
+    "exampleZh": "监管机构开始严格审查科技公司如何收集并变现个人数据。"
+  },
+  {
+    "id": "cet6_024",
+    "word": "fluctuate",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "meanings": [
+      "v. 波动，起伏，变动"
+    ],
+    "exampleEn": "Global commodity prices tend to fluctuate sharply amid geopolitical uncertainty.",
+    "exampleZh": "在地缘政治不确定性下，全球大宗商品价格往往剧烈波动。"
+  },
+  {
+    "id": "cet6_025",
+    "word": "consolidate",
+    "phonetic": "/kənˈsɒlɪdeɪt/",
+    "meanings": [
+      "v. 巩固，加强",
+      "v. 合并，整合"
+    ],
+    "exampleEn": "Spaced repetition helps learners consolidate newly acquired vocabulary into long-term memory.",
+    "exampleZh": "间隔重复有助于学习者将新掌握的词汇巩固进长期记忆。"
+  },
+  {
+    "id": "cet6_026",
+    "word": "paradigm",
+    "phonetic": "/ˈpærədaɪm/",
+    "meanings": [
+      "n. 范式，典范，思维模式"
+    ],
+    "exampleEn": "Remote collaboration has triggered a fundamental paradigm shift in workplace culture.",
+    "exampleZh": "远程协作引发了职场文化中根本性的范式转变。"
+  },
+  {
+    "id": "cet6_027",
+    "word": "resilient",
+    "phonetic": "/rɪˈzɪliənt/",
+    "meanings": [
+      "adj. 有韧性的，能迅速恢复的"
+    ],
+    "exampleEn": "Diversified supply chains prove far more resilient when facing unexpected disruptions.",
+    "exampleZh": "多元化的供应链在面对突发中断时显得更具韧性。"
+  },
+  {
+    "id": "cet6_028",
+    "word": "inherent",
+    "phonetic": "/ɪnˈhɪərənt/",
+    "meanings": [
+      "adj. 固有的，内在的，与生俱来的"
+    ],
+    "exampleEn": "Every emerging technology carries inherent ethical risks that warrant early debate.",
+    "exampleZh": "每一项新兴技术都带有固有的伦理风险，值得及早讨论。"
+  },
+  {
+    "id": "cet6_029",
+    "word": "consensus",
+    "phonetic": "/kənˈsensəs/",
+    "meanings": [
+      "n. 共识，一致意见"
+    ],
+    "exampleEn": "There is broad scientific consensus that human activity drives contemporary climate warming.",
+    "exampleZh": "科学界普遍达成共识，认为人类活动推动了当代气候变暖。"
+  },
+  {
+    "id": "cet6_030",
+    "word": "trajectory",
+    "phonetic": "/trəˈdʒektəri/",
+    "meanings": [
+      "n. 轨迹，发展路径，趋势"
+    ],
+    "exampleEn": "Demographic aging is reshaping the long-term growth trajectory of major economies.",
+    "exampleZh": "人口老龄化正在重塑主要经济体的长期增长轨迹。"
+  },
+  {
+    "id": "cet6_031",
+    "word": "pragmatic",
+    "phonetic": "/præɡˈmætɪk/",
+    "meanings": [
+      "adj. 务实的，实用主义的"
+    ],
+    "exampleEn": "A pragmatic approach balances ambitious climate goals with affordable energy supply.",
+    "exampleZh": "务实的做法是在宏大气候目标与可负担能源供应之间取得平衡。"
+  },
+  {
+    "id": "cet6_032",
+    "word": "arbitrary",
+    "phonetic": "/ˈɑːbɪtrəri/",
+    "meanings": [
+      "adj. 任意的，武断的，专断的"
+    ],
+    "exampleEn": "Performance reviews should rely on transparent criteria rather than arbitrary judgments.",
+    "exampleZh": "绩效评估应依赖透明标准，而非主观武断的判断。"
+  },
+  {
+    "id": "cet6_033",
+    "word": "catalyst",
+    "phonetic": "/ˈkætəlɪst/",
+    "meanings": [
+      "n. 催化剂，促成变革的因素"
+    ],
+    "exampleEn": "High-speed rail served as a powerful catalyst for regional economic integration.",
+    "exampleZh": "高铁成为了促进区域经济一体化的强大催化剂。"
+  },
+  {
+    "id": "cet6_034",
+    "word": "cohesive",
+    "phonetic": "/kəʊˈhiːsɪv/",
+    "meanings": [
+      "adj. 有凝聚力的，紧密结合的"
+    ],
+    "exampleEn": "Shared community spaces foster a more cohesive and supportive neighborhood.",
+    "exampleZh": "共享社区空间有助于培育更具凝聚力、互助友爱的邻里关系。"
+  },
+  {
+    "id": "cet6_035",
+    "word": "complacent",
+    "phonetic": "/kəmˈpleɪsnt/",
+    "meanings": [
+      "adj. 自满的，沾沾自喜的，松懈的"
+    ],
+    "exampleEn": "Market leaders cannot afford to grow complacent in the face of agile newcomers.",
+    "exampleZh": "行业领军企业在面对敏捷的新入局者时绝不能掉以轻心。"
+  },
+  {
+    "id": "cet6_036",
+    "word": "compelling",
+    "phonetic": "/kəmˈpelɪŋ/",
+    "meanings": [
+      "adj. 引人注目的，极具说服力的"
+    ],
+    "exampleEn": "The study presents compelling evidence linking sleep quality to cognitive longevity.",
+    "exampleZh": "这项研究提供了极具说服力的证据，将睡眠质量与认知长寿联系起来。"
+  },
+  {
+    "id": "cet6_037",
+    "word": "conducive",
+    "phonetic": "/kənˈdjuːsɪv/",
+    "meanings": [
+      "adj. 有益于……的，有助于……的"
+    ],
+    "exampleEn": "A clutter-free desk is far more conducive to deep, uninterrupted concentration.",
+    "exampleZh": "整洁无杂物的书桌更有利于深度、不间断的专注。"
+  },
+  {
+    "id": "cet6_038",
+    "word": "consecutive",
+    "phonetic": "/kənˈsekjətɪv/",
+    "meanings": [
+      "adj. 连续的，连贯的"
+    ],
+    "exampleEn": "The region recorded five consecutive months of declining consumer prices.",
+    "exampleZh": "该地区连续五个月录得消费价格下降。"
+  },
+  {
+    "id": "cet6_039",
+    "word": "contemplate",
+    "phonetic": "/ˈkɒntəmpleɪt/",
+    "meanings": [
+      "v. 沉思，深思熟虑",
+      "v. 盘算，打算"
+    ],
+    "exampleEn": "Many graduates pause to contemplate whether to pursue further study or enter industry.",
+    "exampleZh": "许多毕业生停下来深思，是继续深造还是步入职场。"
+  },
+  {
+    "id": "cet6_040",
+    "word": "contradict",
+    "phonetic": "/ˌkɒntrəˈdɪkt/",
+    "meanings": [
+      "v. 与……矛盾，反驳，抵触"
+    ],
+    "exampleEn": "Recent archaeological discoveries appear to contradict several long-held assumptions.",
+    "exampleZh": "近期的考古发现似乎与几项长期以来的假设相矛盾。"
+  },
+  {
+    "id": "cet6_041",
+    "word": "cumulative",
+    "phonetic": "/ˈkjuːmjələtɪv/",
+    "meanings": [
+      "adj. 累积的，渐增的"
+    ],
+    "exampleEn": "Even thirty minutes of daily reading produces a remarkable cumulative effect over a year.",
+    "exampleZh": "哪怕每天只读三十分钟，一年下来也会产生惊人的累积效应。"
+  },
+  {
+    "id": "cet6_042",
+    "word": "cynical",
+    "phonetic": "/ˈsɪnɪkl/",
+    "meanings": [
+      "adj. 愤世嫉俗的，怀疑一切的"
+    ],
+    "exampleEn": "Repeated broken promises have made voters increasingly cynical about campaign pledges.",
+    "exampleZh": "一再食言让选民对竞选承诺变得愈发怀疑。"
+  },
+  {
+    "id": "cet6_043",
+    "word": "deficient",
+    "phonetic": "/dɪˈfɪʃnt/",
+    "meanings": [
+      "adj. 缺乏的，不足的，有缺陷的"
+    ],
+    "exampleEn": "Diets heavily reliant on processed food are often deficient in essential micronutrients.",
+    "exampleZh": "高度依赖加工食品的饮食往往缺乏必需的微量营养素。"
+  },
+  {
+    "id": "cet6_044",
+    "word": "deliberate",
+    "phonetic": "/dɪˈlɪbərət/",
+    "meanings": [
+      "adj. 故意的，蓄意的",
+      "adj. 深思熟虑的，从容的"
+    ],
+    "exampleEn": "Skill mastery requires deliberate practice focused on correcting specific weaknesses.",
+    "exampleZh": "精通技能需要刻意练习，专注于攻克具体薄弱环节。"
+  },
+  {
+    "id": "cet6_045",
+    "word": "depict",
+    "phonetic": "/dɪˈpɪkt/",
+    "meanings": [
+      "v. 描绘，刻画，描述"
+    ],
+    "exampleEn": "Traditional ink paintings often depict misty mountains to evoke philosophical serenity.",
+    "exampleZh": "传统水墨画常描绘云雾缭绕的群山，以唤起哲思般的宁静。"
+  },
+  {
+    "id": "cet6_046",
+    "word": "deprive",
+    "phonetic": "/dɪˈpraɪv/",
+    "meanings": [
+      "v. 剥夺，使丧失"
+    ],
+    "exampleEn": "Excessive late-night screen time deprives adolescents of restorative deep sleep.",
+    "exampleZh": "夜间过度使用电子屏幕剥夺了青少年恢复精力的深度睡眠。"
+  },
+  {
+    "id": "cet6_047",
+    "word": "derive",
+    "phonetic": "/dɪˈraɪv/",
+    "meanings": [
+      "v. 源自，取得，推导"
+    ],
+    "exampleEn": "Many modern English medical terms derive directly from ancient Greek and Latin roots.",
+    "exampleZh": "许多现代英语医学术语直接源自古希腊语和拉丁语词根。"
+  },
+  {
+    "id": "cet6_048",
+    "word": "detrimental",
+    "phonetic": "/ˌdetrɪˈmentl/",
+    "meanings": [
+      "adj. 有害的，不利的"
+    ],
+    "exampleEn": "Prolonged sedentary habits are widely recognized as detrimental to cardiovascular health.",
+    "exampleZh": "长期久坐习惯被公认为对心血管健康有害。"
+  },
+  {
+    "id": "cet6_049",
+    "word": "deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "meanings": [
+      "v. 偏离，背离，违背"
+    ],
+    "exampleEn": "Experimental results deviated noticeably from the theoretical predictions.",
+    "exampleZh": "实验结果与理论预测出现了明显偏离。"
+  },
+  {
+    "id": "cet6_050",
+    "word": "diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "meanings": [
+      "v. 减少，减弱，贬低"
+    ],
+    "exampleEn": "Overuse of antibiotics can gradually diminish their effectiveness against resistant bacteria.",
+    "exampleZh": "滥用抗生素会逐渐削弱其对抗耐药菌的效力。"
+  },
+  {
+    "id": "cet6_051",
+    "word": "disrupt",
+    "phonetic": "/dɪsˈrʌpt/",
+    "meanings": [
+      "v. 扰乱，中断",
+      "v. 颠覆（传统行业）"
+    ],
+    "exampleEn": "Autonomous logistics systems are poised to disrupt conventional freight transportation.",
+    "exampleZh": "自主物流系统正准备颠覆传统货运方式。"
+  },
+  {
+    "id": "cet6_052",
+    "word": "diverse",
+    "phonetic": "/daɪˈvɜːs/",
+    "meanings": [
+      "adj. 多样化的，形形色色的"
+    ],
+    "exampleEn": "Interdisciplinary teams bring together diverse perspectives that spark creative breakthroughs.",
+    "exampleZh": "跨学科团队汇聚多元视角，激发创新突破。"
+  },
+  {
+    "id": "cet6_053",
+    "word": "dominant",
+    "phonetic": "/ˈdɒmɪnənt/",
+    "meanings": [
+      "adj. 占主导地位的，支配的"
+    ],
+    "exampleEn": "Mobile payments have emerged as the dominant transaction method in urban retail.",
+    "exampleZh": "移动支付已成为城市零售领域占主导地位的交易方式。"
+  },
+  {
+    "id": "cet6_054",
+    "word": "drastic",
+    "phonetic": "/ˈdræstɪk/",
+    "meanings": [
+      "adj. 剧烈的，彻底的，严厉的"
+    ],
+    "exampleEn": "Cities facing severe water shortages had to adopt drastic conservation measures.",
+    "exampleZh": "面临严重缺水的城市不得不采取严厉的节水措施。"
+  },
+  {
+    "id": "cet6_055",
+    "word": "dubious",
+    "phonetic": "/ˈdjuːbiəs/",
+    "meanings": [
+      "adj. 怀疑的，可疑的，靠不住的"
+    ],
+    "exampleEn": "Consumers are growing skeptical of dubious health claims made by unlicensed influencers.",
+    "exampleZh": "消费者对无资质网红所作的可疑健康宣称愈发怀疑。"
+  },
+  {
+    "id": "cet6_056",
+    "word": "elaborate",
+    "phonetic": "/ɪˈlæbərət/",
+    "meanings": [
+      "adj. 精心设计的，详尽的",
+      "v. 详细阐述"
+    ],
+    "exampleEn": "The keynote speaker was invited to elaborate on the methodology behind her findings.",
+    "exampleZh": "主旨演讲嘉宾受邀详细阐述她研究成果背后的研究方法。"
+  },
+  {
+    "id": "cet6_057",
+    "word": "elicit",
+    "phonetic": "/ɪˈlɪsɪt/",
+    "meanings": [
+      "v. 引出，激起，探出（反应/信息）"
+    ],
+    "exampleEn": "Open-ended interview questions generally elicit more candid responses from participants.",
+    "exampleZh": "开放式访谈问题通常能引出受访者更坦诚的回答。"
+  },
+  {
+    "id": "cet6_058",
+    "word": "embody",
+    "phonetic": "/ɪmˈbɒdi/",
+    "meanings": [
+      "v. 体现，具体表现，包含"
+    ],
+    "exampleEn": "Ancient wooden architecture embodies both aesthetic harmony and structural wisdom.",
+    "exampleZh": "古代木结构建筑同时体现了审美和谐与结构智慧。"
+  },
+  {
+    "id": "cet6_059",
+    "word": "empirical",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "meanings": [
+      "adj. 实证的，经验主义的"
+    ],
+    "exampleEn": "Sound public policy should be grounded in rigorous empirical data rather than anecdote.",
+    "exampleZh": "稳健的公共政策应建立在严谨的实证数据而非轶事之上。"
+  },
+  {
+    "id": "cet6_060",
+    "word": "endeavor",
+    "phonetic": "/ɪnˈdevə(r)/",
+    "meanings": [
+      "n. 努力，尝试，事业",
+      "v. 竭力，试图"
+    ],
+    "exampleEn": "Deep-space exploration represents a monumental scientific endeavor requiring global cooperation.",
+    "exampleZh": "深空探索是一项需要全球合作的宏大科学事业。"
+  },
+  {
+    "id": "cet6_061",
+    "word": "endorse",
+    "phonetic": "/ɪnˈdɔːs/",
+    "meanings": [
+      "v. 赞同，认可，支持",
+      "v. 代言"
+    ],
+    "exampleEn": "Several leading economists publicly endorsed the proposal for vocational education reform.",
+    "exampleZh": "数位知名经济学家公开赞同职业教育改革方案。"
+  },
+  {
+    "id": "cet6_062",
+    "word": "encompass",
+    "phonetic": "/ɪnˈkʌmpəs/",
+    "meanings": [
+      "v. 包含，涵盖，围绕"
+    ],
+    "exampleEn": "Lifelong learning encompasses formal coursework as well as informal self-directed study.",
+    "exampleZh": "终身学习既涵盖正规课程，也包含非正式的自主学习。"
+  },
+  {
+    "id": "cet6_063",
+    "word": "enhance",
+    "phonetic": "/ɪnˈhɑːns/",
+    "meanings": [
+      "v. 提高，增强，增进"
+    ],
+    "exampleEn": "Interactive lab simulations can substantially enhance students’ grasp of abstract physics.",
+    "exampleZh": "交互式实验模拟能显著增强学生对抽象物理概念的理解。"
+  },
+  {
+    "id": "cet6_064",
+    "word": "entail",
+    "phonetic": "/ɪnˈteɪl/",
+    "meanings": [
+      "v. 牵涉，需要，必然带来"
+    ],
+    "exampleEn": "Transitioning to a circular economy entails redesigning products for easy recycling.",
+    "exampleZh": "向循环经济转型意味着要重新设计产品以便于回收利用。"
+  },
+  {
+    "id": "cet6_065",
+    "word": "erode",
+    "phonetic": "/ɪˈrəʊd/",
+    "meanings": [
+      "v. 侵蚀，腐蚀",
+      "v. 逐渐削弱"
+    ],
+    "exampleEn": "Persistent inflation steadily erodes the purchasing power of household savings.",
+    "exampleZh": "持续通胀会稳步侵蚀家庭储蓄的购买力。"
+  },
+  {
+    "id": "cet6_066",
+    "word": "escalate",
+    "phonetic": "/ˈeskəleɪt/",
+    "meanings": [
+      "v. 升级，加剧，迅速上升"
+    ],
+    "exampleEn": "Minor trade disputes can quickly escalate into broader tariff conflicts if left unmanaged.",
+    "exampleZh": "若不加管控，微小的贸易争端很快可能升级为更广泛的关税冲突。"
+  },
+  {
+    "id": "cet6_067",
+    "word": "ethical",
+    "phonetic": "/ˈeθɪkl/",
+    "meanings": [
+      "adj. 伦理的，道德的"
+    ],
+    "exampleEn": "Gene editing raises profound ethical questions concerning human dignity and safety.",
+    "exampleZh": "基因编辑引发了关乎人类尊严与安全的深刻伦理问题。"
+  },
+  {
+    "id": "cet6_068",
+    "word": "evade",
+    "phonetic": "/ɪˈveɪd/",
+    "meanings": [
+      "v. 逃避，规避，避开"
+    ],
+    "exampleEn": "Tighter cross-border regulations aim to stop multinational firms from evading taxes.",
+    "exampleZh": "更严格的跨境监管旨在阻止跨国企业逃税。"
+  },
+  {
+    "id": "cet6_069",
+    "word": "evolve",
+    "phonetic": "/ɪˈvɒlv/",
+    "meanings": [
+      "v. 演变，进化，逐步发展"
+    ],
+    "exampleEn": "Consumer expectations continue to evolve rapidly alongside advances in e-commerce.",
+    "exampleZh": "随着电子商务的发展，消费者的期望也在迅速演变。"
+  },
+  {
+    "id": "cet6_070",
+    "word": "exemplify",
+    "phonetic": "/ɪɡˈzemplɪfaɪ/",
+    "meanings": [
+      "v. 举例说明，成为……的典范"
+    ],
+    "exampleEn": "The Dunhuang murals vividly exemplify centuries of cultural exchange along the Silk Road.",
+    "exampleZh": "敦煌壁画生动展现了丝绸之路数百年来的文化交融。"
+  },
+  {
+    "id": "cet6_071",
+    "word": "exhaustive",
+    "phonetic": "/ɪɡˈzɔːstɪv/",
+    "meanings": [
+      "adj. 详尽的，彻底的，无遗漏的"
+    ],
+    "exampleEn": "After an exhaustive review of historical records, the historians revised the timeline.",
+    "exampleZh": "在对历史档案进行详尽核查后，历史学家修订了时间线。"
+  },
+  {
+    "id": "cet6_072",
+    "word": "explicit",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "meanings": [
+      "adj. 明确的，直白的，清晰的"
+    ],
+    "exampleEn": "Apps must obtain explicit user consent before accessing location or biometric data.",
+    "exampleZh": "应用程序在获取定位或生物识别数据前必须征得用户明确同意。"
+  },
+  {
+    "id": "cet6_073",
+    "word": "exploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "meanings": [
+      "v. 充分利用，开发",
+      "v. 剥削"
+    ],
+    "exampleEn": "Coastal provinces are working to exploit offshore wind resources more efficiently.",
+    "exampleZh": "沿海省份正致力于更高效地开发海上风电资源。"
+  },
+  {
+    "id": "cet6_074",
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
+    "meanings": [
+      "adj. 可行的，切实可行的"
+    ],
+    "exampleEn": "Advances in battery storage have made solar microgrids economically feasible in remote villages.",
+    "exampleZh": "电池储能技术的进步使偏远村庄的太阳能微电网在经济上变得可行。"
+  },
+  {
+    "id": "cet6_075",
+    "word": "foster",
+    "phonetic": "/ˈfɒstə(r)/",
+    "meanings": [
+      "v. 培养，促进，助长"
+    ],
+    "exampleEn": "Constructive feedback fosters a sense of ownership and curiosity among learners.",
+    "exampleZh": "建设性的反馈能够培养学习者的主人翁意识和求知欲。"
+  },
+  {
+    "id": "cet6_076",
+    "word": "fragile",
+    "phonetic": "/ˈfrædʒaɪl/",
+    "meanings": [
+      "adj. 脆弱的，易碎的，不稳固的"
+    ],
+    "exampleEn": "High-altitude ecosystems are extraordinarily fragile and take decades to recover once damaged.",
+    "exampleZh": "高海拔生态系统极其脆弱，一旦受损需要数十年才能恢复。"
+  },
+  {
+    "id": "cet6_077",
+    "word": "gauge",
+    "phonetic": "/ɡeɪdʒ/",
+    "meanings": [
+      "v. 评估，衡量，判断",
+      "n. 测量仪，标准"
+    ],
+    "exampleEn": "Pilot surveys help researchers gauge public readiness before launching nationwide reforms.",
+    "exampleZh": "试点调查有助于研究人员在启动全国性改革前评估公众接受度。"
+  },
+  {
+    "id": "cet6_078",
+    "word": "hamper",
+    "phonetic": "/ˈhæmpə(r)/",
+    "meanings": [
+      "v. 妨碍，阻碍，牵制"
+    ],
+    "exampleEn": "Outdated grid infrastructure continues to hamper the large-scale adoption of clean power.",
+    "exampleZh": "老旧的电网基础设施仍在阻碍清洁能源的大规模普及。"
+  },
+  {
+    "id": "cet6_079",
+    "word": "hierarchy",
+    "phonetic": "/ˈhaɪərɑːki/",
+    "meanings": [
+      "n. 等级制度，层级结构"
+    ],
+    "exampleEn": "Modern tech startups often favor flat management over rigid corporate hierarchies.",
+    "exampleZh": "现代科技初创公司通常青睐扁平化管理，而非僵化的企业层级制度。"
+  },
+  {
+    "id": "cet6_080",
+    "word": "hinder",
+    "phonetic": "/ˈhɪndə(r)/",
+    "meanings": [
+      "v. 阻碍，妨碍，打扰"
+    ],
+    "exampleEn": "Language barriers no longer hinder international collaboration as severely as before.",
+    "exampleZh": "语言障碍不再像过去那样严重阻碍国际合作。"
+  },
+  {
+    "id": "cet6_081",
+    "word": "homogeneous",
+    "phonetic": "/ˌhɒməˈdʒiːniəs/",
+    "meanings": [
+      "adj. 同质的，同类的，均匀的"
+    ],
+    "exampleEn": "Algorithmic feeds can trap users inside homogeneous echo chambers.",
+    "exampleZh": "算法推荐可能会将用户困在同质化的信息茧房之中。"
+  },
+  {
+    "id": "cet6_082",
+    "word": "hypothesis",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "meanings": [
+      "n. 假设，假说，前提"
+    ],
+    "exampleEn": "Clinical trials are conducted to rigorously test whether the initial hypothesis holds true.",
+    "exampleZh": "开展临床试验是为了严格检验最初的假说是否成立。"
+  },
+  {
+    "id": "cet6_083",
+    "word": "illuminate",
+    "phonetic": "/ɪˈluːmɪneɪt/",
+    "meanings": [
+      "v. 阐明，启发",
+      "v. 照亮"
+    ],
+    "exampleEn": "Longitudinal studies help illuminate how early childhood habits shape adult resilience.",
+    "exampleZh": "追踪研究有助于阐明童年早期习惯如何塑造人的成年抗压能力。"
+  },
+  {
+    "id": "cet6_084",
+    "word": "immerse",
+    "phonetic": "/ɪˈmɜːs/",
+    "meanings": [
+      "v. 沉浸于，专心于",
+      "v. 浸入"
+    ],
+    "exampleEn": "Students who immerse themselves in authentic audio materials build listening intuition faster.",
+    "exampleZh": "沉浸在真实英语音频材料中的学生能更快建立听力语感。"
+  },
+  {
+    "id": "cet6_085",
+    "word": "imminent",
+    "phonetic": "/ˈɪmɪnənt/",
+    "meanings": [
+      "adj. 迫在眉睫的，即将来临的"
+    ],
+    "exampleEn": "Early-warning satellites give coastal residents crucial hours before an imminent typhoon.",
+    "exampleZh": "预警卫星在即将来临的台风前为沿海居民争取到宝贵的数小时。"
+  },
+  {
+    "id": "cet6_086",
+    "word": "impartial",
+    "phonetic": "/ɪmˈpɑːʃl/",
+    "meanings": [
+      "adj. 公正的，不偏不倚的"
+    ],
+    "exampleEn": "Peer review relies on impartial evaluation by qualified scholars in the same field.",
+    "exampleZh": "同行评审依赖同领域合格学者做出不偏不倚的评价。"
+  },
+  {
+    "id": "cet6_087",
+    "word": "impede",
+    "phonetic": "/ɪmˈpiːd/",
+    "meanings": [
+      "v. 阻碍，延缓，妨碍"
+    ],
+    "exampleEn": "Excessive administrative red tape can impede the commercialization of laboratory breakthroughs.",
+    "exampleZh": "繁琐的行政手续会延缓实验室突破性成果的商业化。"
+  },
+  {
+    "id": "cet6_088",
+    "word": "imperative",
+    "phonetic": "/ɪmˈperətɪv/",
+    "meanings": [
+      "adj. 势在必行的，极重要的",
+      "n. 当务之急"
+    ],
+    "exampleEn": "Strengthening cybersecurity defenses has become an urgent imperative for public hospitals.",
+    "exampleZh": "加强网络安全防护已成为公立医院的当务之急。"
+  },
+  {
+    "id": "cet6_089",
+    "word": "implicit",
+    "phonetic": "/ɪmˈplɪsɪt/",
+    "meanings": [
+      "adj. 含蓄的，隐含的，不言明却存在的"
+    ],
+    "exampleEn": "Cross-cultural communication often stumbles over implicit social norms rather than grammar.",
+    "exampleZh": "跨文化交流受阻往往源于隐含的社会规范，而非语法本身。"
+  },
+  {
+    "id": "cet6_090",
+    "word": "incur",
+    "phonetic": "/ɪnˈkɜː(r)/",
+    "meanings": [
+      "v. 招致，遭受，承担（费用/风险）"
+    ],
+    "exampleEn": "Firms that ignore environmental standards may incur heavy fines and reputational damage.",
+    "exampleZh": "无视环保标准的企业可能招致巨额罚款和声誉损失。"
+  },
+  {
+    "id": "cet6_091",
+    "word": "indispensable",
+    "phonetic": "/ˌɪndɪˈspensəbl/",
+    "meanings": [
+      "adj. 不可或缺的，必不可少的"
+    ],
+    "exampleEn": "Critical thinking has become an indispensable skill in an era of AI-generated content.",
+    "exampleZh": "在人工智能生成内容的时代，批判性思维已成为不可或缺的能力。"
+  },
+  {
+    "id": "cet6_092",
+    "word": "induce",
+    "phonetic": "/ɪnˈdjuːs/",
+    "meanings": [
+      "v. 引起，诱发",
+      "v. 劝说，促使"
+    ],
+    "exampleEn": "Chronic exposure to urban noise pollution can induce elevated stress hormones.",
+    "exampleZh": "长期暴露在城市噪音污染中可能诱发应激激素升高。"
+  },
+  {
+    "id": "cet6_093",
+    "word": "infrastructure",
+    "phonetic": "/ˈɪnfrəstrʌktʃə(r)/",
+    "meanings": [
+      "n. 基础设施，基础建设"
+    ],
+    "exampleEn": "Modern charging infrastructure is essential to ease range anxiety among electric-car drivers.",
+    "exampleZh": "现代充电基础设施对缓解电动车司机的里程焦虑至关重要。"
+  },
+  {
+    "id": "cet6_094",
+    "word": "ingenuity",
+    "phonetic": "/ˌɪndʒəˈnjuːəti/",
+    "meanings": [
+      "n. 独创性，巧思，足智多谋"
+    ],
+    "exampleEn": "The restoration of ancient bridges showcases the extraordinary engineering ingenuity of artisans.",
+    "exampleZh": "古桥修复展现了工匠们非凡的工程巧思。"
+  },
+  {
+    "id": "cet6_095",
+    "word": "inhibit",
+    "phonetic": "/ɪnˈhɪbɪt/",
+    "meanings": [
+      "v. 抑制，约束，阻止"
+    ],
+    "exampleEn": "Fear of making mistakes often inhibits students from speaking English aloud in class.",
+    "exampleZh": "害怕犯错常常抑制学生在课堂上大声说英语。"
+  },
+  {
+    "id": "cet6_096",
+    "word": "initiate",
+    "phonetic": "/ɪˈnɪʃieɪt/",
+    "meanings": [
+      "v. 发起，启动，开始"
+    ],
+    "exampleEn": "Universities have begun to initiate joint research centers focused on clean hydrogen.",
+    "exampleZh": "高校已开始发起专注于清洁氢能的联合研究中心。"
+  },
+  {
+    "id": "cet6_097",
+    "word": "integral",
+    "phonetic": "/ˈɪntɪɡrəl/",
+    "meanings": [
+      "adj. 不可或缺的，构成整体必需的"
+    ],
+    "exampleEn": "Mental health counseling should be treated as an integral component of campus services.",
+    "exampleZh": "心理健康咨询应被视为校园服务中不可或缺的组成部分。"
+  },
+  {
+    "id": "cet6_098",
+    "word": "integrity",
+    "phonetic": "/ɪnˈteɡrəti/",
+    "meanings": [
+      "n. 正直，诚实",
+      "n. 完整，完好"
+    ],
+    "exampleEn": "Academic integrity requires transparent citation of all data sources and external tools.",
+    "exampleZh": "学术诚信要求对所有数据来源和外部工具进行透明引用。"
+  },
+  {
+    "id": "cet6_099",
+    "word": "intensify",
+    "phonetic": "/ɪnˈtensɪfaɪ/",
+    "meanings": [
+      "v. 加剧，增强，强化"
+    ],
+    "exampleEn": "Competition among electric vehicle manufacturers is expected to intensify over the next decade.",
+    "exampleZh": "未来十年，电动汽车制造商之间的竞争预计将进一步加剧。"
+  },
+  {
+    "id": "cet6_100",
+    "word": "intermittent",
+    "phonetic": "/ˌɪntəˈmɪtənt/",
+    "meanings": [
+      "adj. 间歇性的，断断续续的"
+    ],
+    "exampleEn": "Grid operators must balance the intermittent output of wind and solar farms.",
+    "exampleZh": "电网运营商必须平衡风电场和光伏电站的间歇性发电输出。"
+  },
+  {
+    "id": "cet6_101",
+    "word": "intricate",
+    "phonetic": "/ˈɪntrɪkət/",
+    "meanings": [
+      "adj. 错综复杂的，精细的"
+    ],
+    "exampleEn": "Suzhou embroidery is celebrated worldwide for its intricate silk stitching techniques.",
+    "exampleZh": "苏绣以其精细繁复的丝线针法享誉世界。"
+  },
+  {
+    "id": "cet6_102",
+    "word": "intrinsic",
+    "phonetic": "/ɪnˈtrɪnzɪk/",
+    "meanings": [
+      "adj. 内在的，固有的，本质的"
+    ],
+    "exampleEn": "Intrinsic curiosity sustains learning far longer than short-term exam pressure.",
+    "exampleZh": "内在好奇心比短期考试压力更能长久支撑学习。"
+  },
+  {
+    "id": "cet6_103",
+    "word": "intuition",
+    "phonetic": "/ˌɪntjuˈɪʃn/",
+    "meanings": [
+      "n. 直觉，直觉力"
+    ],
+    "exampleEn": "Experienced physicians combine clinical intuition with precise diagnostic imaging.",
+    "exampleZh": "经验丰富的医生会将临床直觉与精准医学影像相结合。"
+  },
+  {
+    "id": "cet6_104",
+    "word": "irrevocable",
+    "phonetic": "/ɪˈrevəkəbl/",
+    "meanings": [
+      "adj. 不可逆转的，无法挽回的"
+    ],
+    "exampleEn": "Deforestation in tropical basins can trigger irrevocable biodiversity loss.",
+    "exampleZh": "热带流域的森林砍伐可能引发不可逆转的生物多样性丧失。"
+  },
+  {
+    "id": "cet6_105",
+    "word": "jeopardize",
+    "phonetic": "/ˈdʒepədaɪz/",
+    "meanings": [
+      "v. 危及，损害，使陷入危险"
+    ],
+    "exampleEn": "Cutting corners on safety inspections could jeopardize thousands of commuters.",
+    "exampleZh": "在安全检查上偷工减料可能会危及成千上万通勤者的安全。"
+  },
+  {
+    "id": "cet6_106",
+    "word": "legitimate",
+    "phonetic": "/lɪˈdʒɪtɪmət/",
+    "meanings": [
+      "adj. 合法的，正当的，合情合理的"
+    ],
+    "exampleEn": "Workers raised legitimate concerns about algorithmic surveillance in warehouses.",
+    "exampleZh": "工人们对仓库中的算法监控提出了合情合理的担忧。"
+  },
+  {
+    "id": "cet6_107",
+    "word": "leverage",
+    "phonetic": "/ˈliːvərɪdʒ/",
+    "meanings": [
+      "v. 充分利用，撬动",
+      "n. 影响力，杠杆作用"
+    ],
+    "exampleEn": "Small rural cooperatives now leverage livestreaming to reach nationwide consumers directly.",
+    "exampleZh": "小型农村合作社如今充分利用直播直接触达全国消费者。"
+  },
+  {
+    "id": "cet6_108",
+    "word": "lucrative",
+    "phonetic": "/ˈluːkrətɪv/",
+    "meanings": [
+      "adj. 利润丰厚的，赚钱的"
+    ],
+    "exampleEn": "Green battery recycling is emerging as a surprisingly lucrative industrial sector.",
+    "exampleZh": "绿色电池回收正崛起为一个利润颇为丰厚的工业领域。"
+  },
+  {
+    "id": "cet6_109",
+    "word": "magnitude",
+    "phonetic": "/ˈmæɡnɪtjuːd/",
+    "meanings": [
+      "n. 巨大，规模，重要性",
+      "n. 震级"
+    ],
+    "exampleEn": "Few analysts initially grasped the sheer magnitude of the shift toward mobile computing.",
+    "exampleZh": "最初很少有分析师意识到向移动计算转型的巨大规模。"
+  },
+  {
+    "id": "cet6_110",
+    "word": "manipulate",
+    "phonetic": "/məˈnɪpjuleɪt/",
+    "meanings": [
+      "v. 操纵，操控",
+      "v. 熟练操作"
+    ],
+    "exampleEn": "Consumers should learn to spot tactics designed to manipulate impulse buying online.",
+    "exampleZh": "消费者应学会识破网上旨在操纵冲动消费的套路。"
+  },
+  {
+    "id": "cet6_111",
+    "word": "marginal",
+    "phonetic": "/ˈmɑːdʒɪnl/",
+    "meanings": [
+      "adj. 微小的，边缘的，非核心的"
+    ],
+    "exampleEn": "Adding another lane to a congested highway often yields only marginal traffic relief.",
+    "exampleZh": "给拥堵的高速公路增加一条车道往往只能带来微小的缓堵效果。"
+  },
+  {
+    "id": "cet6_112",
+    "word": "mediocre",
+    "phonetic": "/ˌmiːdiˈəʊkə(r)/",
+    "meanings": [
+      "adj. 平庸的，普通的，二流的"
+    ],
+    "exampleEn": "Relying solely on memorized templates usually results in a mediocre CET-6 essay.",
+    "exampleZh": "单纯依赖死记硬背的模板通常只会写出平庸的六级作文。"
+  },
+  {
+    "id": "cet6_113",
+    "word": "meticulous",
+    "phonetic": "/məˈtɪkjələs/",
+    "meanings": [
+      "adj. 一丝不苟的，极其细致的"
+    ],
+    "exampleEn": "Restoring fragile ancient manuscripts demands meticulous patience and specialized lighting.",
+    "exampleZh": "修复脆弱的古籍手稿需要一丝不苟的耐心和专业照明。"
+  },
+  {
+    "id": "cet6_114",
+    "word": "momentum",
+    "phonetic": "/məˈmentəm/",
+    "meanings": [
+      "n. 势头，动力，动量"
+    ],
+    "exampleEn": "Public support for urban cycling lanes has gained strong momentum across major cities.",
+    "exampleZh": "公众对城市自行车道的支持在各大城市获得了强劲势头。"
+  },
+  {
+    "id": "cet6_115",
+    "word": "monopoly",
+    "phonetic": "/məˈnɒpəli/",
+    "meanings": [
+      "n. 垄断，独占"
+    ],
+    "exampleEn": "Antitrust authorities closely monitor platform mergers to prevent digital monopolies.",
+    "exampleZh": "反垄断机构密切监管平台并购，以防止数字垄断。"
+  },
+  {
+    "id": "cet6_116",
+    "word": "mundane",
+    "phonetic": "/mʌnˈdeɪn/",
+    "meanings": [
+      "adj. 平凡的，单调的，日常的"
+    ],
+    "exampleEn": "Automation can free professionals from mundane clerical tasks to focus on creative strategy.",
+    "exampleZh": "自动化能把职场人从单调的文书工作中解放出来，专注于创意策略。"
+  },
+  {
+    "id": "cet6_117",
+    "word": "negligible",
+    "phonetic": "/ˈneɡlɪdʒəbl/",
+    "meanings": [
+      "adj. 微不足道的，可忽略不计的"
+    ],
+    "exampleEn": "The energy savings from a single switch seem negligible, yet scale hugely across millions of homes.",
+    "exampleZh": "单次随手关灯节省的电量看似微不足道，但在数百万家庭中却规模惊人。"
+  },
+  {
+    "id": "cet6_118",
+    "word": "notorious",
+    "phonetic": "/nəʊˈtɔːriəs/",
+    "meanings": [
+      "adj. 臭名昭著的，声名狼藉的"
+    ],
+    "exampleEn": "That congested intersection was once notorious for hour-long evening bottlenecks.",
+    "exampleZh": "那个拥堵的十字路口曾因晚高峰长达一小时的堵车而臭名昭著。"
+  },
+  {
+    "id": "cet6_119",
+    "word": "nuance",
+    "phonetic": "/ˈnjuːɑːns/",
+    "meanings": [
+      "n. 细微差别，微妙之处"
+    ],
+    "exampleEn": "Machine translation still occasionally misses the cultural nuance of classical Chinese idioms.",
+    "exampleZh": "机器翻译有时仍会漏掉中国古典成语中的文化微妙之处。"
+  },
+  {
+    "id": "cet6_120",
+    "word": "obsolete",
+    "phonetic": "/ˌɒbsəˈliːt/",
+    "meanings": [
+      "adj. 过时的，淘汰的，废弃的"
+    ],
+    "exampleEn": "Rapid hardware upgrades render many electronic devices obsolete within just a few years.",
+    "exampleZh": "快速的硬件迭代让许多电子设备在短短几年内就遭到淘汰。"
+  },
+  {
+    "id": "cet6_121",
+    "word": "offset",
+    "phonetic": "/ˈɒfset/",
+    "meanings": [
+      "v. 抵消，弥补，平衡"
+    ],
+    "exampleEn": "Higher productivity gains helped offset rising raw material costs for manufacturers.",
+    "exampleZh": "生产率提升帮助制造商抵消了原材料成本上涨的影响。"
+  },
+  {
+    "id": "cet6_122",
+    "word": "outweigh",
+    "phonetic": "/ˌaʊtˈweɪ/",
+    "meanings": [
+      "v. 超过，重于，比……更重要"
+    ],
+    "exampleEn": "The long-term health benefits of daily walking far outweigh the modest time commitment.",
+    "exampleZh": "每天步行的长期健康益处远远超过所花费的少量时间。"
+  },
+  {
+    "id": "cet6_123",
+    "word": "overwhelming",
+    "phonetic": "/ˌəʊvəˈwelmɪŋ/",
+    "meanings": [
+      "adj. 压倒性的，势不可挡的，令人不知所措的"
+    ],
+    "exampleEn": "An overwhelming majority of respondents favored clearer nutrition labels on packaged snacks.",
+    "exampleZh": "压倒性多数的受访者支持在包装零食上使用更清晰的营养标签。"
+  },
+  {
+    "id": "cet6_124",
+    "word": "paradox",
+    "phonetic": "/ˈpærədɒks/",
+    "meanings": [
+      "n. 悖论，自相矛盾的现象"
+    ],
+    "exampleEn": "The choice paradox suggests that too many options can actually lower customer satisfaction.",
+    "exampleZh": "选择悖论表明，过多的选项实际上反而会降低顾客满意度。"
+  },
+  {
+    "id": "cet6_125",
+    "word": "perceive",
+    "phonetic": "/pəˈsiːv/",
+    "meanings": [
+      "v. 感知，察觉，看待"
+    ],
+    "exampleEn": "Younger generations increasingly perceive sustainability as a core indicator of brand quality.",
+    "exampleZh": "年轻一代越来越将可持续发展视为衡量品牌品质的核心指标。"
+  },
+  {
+    "id": "cet6_126",
+    "word": "pervasive",
+    "phonetic": "/pəˈveɪsɪv/",
+    "meanings": [
+      "adj. 无处不在的，普遍渗透的"
+    ],
+    "exampleEn": "Smartphone connectivity has become so pervasive that truly offline vacations are rare.",
+    "exampleZh": "智能手机联网已如此普遍，以至于真正断网的假期变得罕见。"
+  },
+  {
+    "id": "cet6_127",
+    "word": "pivotal",
+    "phonetic": "/ˈpɪvətl/",
+    "meanings": [
+      "adj. 关键的，起决定性作用的"
+    ],
+    "exampleEn": "Vocabulary precision plays a pivotal role in distinguishing high-scoring CET-6 reading comprehension.",
+    "exampleZh": "词汇精准度在拉开六级阅读理解高分差距方面起着关键作用。"
+  },
+  {
+    "id": "cet6_128",
+    "word": "plight",
+    "phonetic": "/plaɪt/",
+    "meanings": [
+      "n. 困境，苦境，艰难处境"
+    ],
+    "exampleEn": "The documentary drew nationwide attention to the plight of endangered migratory birds.",
+    "exampleZh": "这部纪录片引起了全国对濒危候鸟艰难处境的关注。"
+  },
+  {
+    "id": "cet6_129",
+    "word": "precarious",
+    "phonetic": "/prɪˈkeəriəs/",
+    "meanings": [
+      "adj. 不稳定的，岌岌可危的，危险的"
+    ],
+    "exampleEn": "Freelancers without social insurance often find themselves in a financially precarious position.",
+    "exampleZh": "缺乏社会保险的自由职业者往往处于财务极不稳定的处境。"
+  },
+  {
+    "id": "cet6_130",
+    "word": "predominant",
+    "phonetic": "/prɪˈdɒmɪnənt/",
+    "meanings": [
+      "adj. 占主导的，最显著的"
+    ],
+    "exampleEn": "Service industries now account for the predominant share of urban employment.",
+    "exampleZh": "服务业目前在城市就业中占据主导份额。"
+  },
+  {
+    "id": "cet6_131",
+    "word": "preliminary",
+    "phonetic": "/prɪˈlɪmɪnəri/",
+    "meanings": [
+      "adj. 初步的，预备的",
+      "n. 初步举措"
+    ],
+    "exampleEn": "Preliminary trials indicate that the new composite material withstands extreme cold.",
+    "exampleZh": "初步试验表明，这种新型复合材料能够承受极端严寒。"
+  },
+  {
+    "id": "cet6_132",
+    "word": "premise",
+    "phonetic": "/ˈpremɪs/",
+    "meanings": [
+      "n. 前提，假定",
+      "n. 经营场所"
+    ],
+    "exampleEn": "The entire argument rests on the questionable premise that growth automatically brings happiness.",
+    "exampleZh": "整个论点都建立在“增长必然带来幸福”这一存疑的前提之上。"
+  },
+  {
+    "id": "cet6_133",
+    "word": "prestigious",
+    "phonetic": "/preˈstɪdʒəs/",
+    "meanings": [
+      "adj. 享有盛誉的，有威望的"
+    ],
+    "exampleEn": "She earned a fellowship at a prestigious international laboratory specializing in oceanography.",
+    "exampleZh": "她获得了一家享有盛誉的国际海洋学实验室的研究员资助。"
+  },
+  {
+    "id": "cet6_134",
+    "word": "prevail",
+    "phonetic": "/prɪˈveɪl/",
+    "meanings": [
+      "v. 盛行，流行",
+      "v. 占优势，获胜"
+    ],
+    "exampleEn": "Calm evidence-based dialogue should prevail over sensationalism in public health reporting.",
+    "exampleZh": "在公共卫生报道中，冷静的循证对话应当胜过哗众取宠。"
+  },
+  {
+    "id": "cet6_135",
+    "word": "profound",
+    "phonetic": "/prəˈfaʊnd/",
+    "meanings": [
+      "adj. 深刻的，深远的，渊博的"
+    ],
+    "exampleEn": "Digitalization is exerting a profound influence on how museums preserve cultural relics.",
+    "exampleZh": "数字化正在对博物馆保存文物的方式产生深远影响。"
+  },
+  {
+    "id": "cet6_136",
+    "word": "prominent",
+    "phonetic": "/ˈprɒmɪnənt/",
+    "meanings": [
+      "adj. 突出的，杰出的，显眼的"
+    ],
+    "exampleEn": "China’s high-speed rail network occupies a prominent place in global infrastructure engineering.",
+    "exampleZh": "中国高铁网络在全球基础设施工程领域占据突出地位。"
+  },
+  {
+    "id": "cet6_137",
+    "word": "propel",
+    "phonetic": "/prəˈpel/",
+    "meanings": [
+      "v. 推动，驱使，推进"
+    ],
+    "exampleEn": "Sustained investment in basic science will propel the next wave of industrial innovation.",
+    "exampleZh": "对基础科学的持续投入将推动下一波产业创新浪潮。"
+  },
+  {
+    "id": "cet6_138",
+    "word": "prudent",
+    "phonetic": "/ˈpruːdnt/",
+    "meanings": [
+      "adj. 审慎的，谨慎精明的"
+    ],
+    "exampleEn": "Financial advisors recommend maintaining a prudent emergency reserve before investing.",
+    "exampleZh": "理财顾问建议在投资前保留一笔审慎的应急储备金。"
+  },
+  {
+    "id": "cet6_139",
+    "word": "reconcile",
+    "phonetic": "/ˈrekənsaɪl/",
+    "meanings": [
+      "v. 调和，协调，使一致",
+      "v. 和解"
+    ],
+    "exampleEn": "Urban planners strive to reconcile historic preservation with modern housing demand.",
+    "exampleZh": "城市规划者力求在历史保护与现代住房需求之间取得协调。"
+  },
+  {
+    "id": "cet6_140",
+    "word": "redundant",
+    "phonetic": "/rɪˈdʌndənt/",
+    "meanings": [
+      "adj. 多余的，冗长的",
+      "adj. 被裁员的"
+    ],
+    "exampleEn": "Good academic editors cut redundant phrases to make every sentence crisp and forceful.",
+    "exampleZh": "优秀的学术编辑会删去冗余措辞，让每个句子都干练有力。"
+  },
+  {
+    "id": "cet6_141",
+    "word": "rigorous",
+    "phonetic": "/ˈrɪɡərəs/",
+    "meanings": [
+      "adj. 严谨的，严密的，严厉的"
+    ],
+    "exampleEn": "Every aircraft component must pass rigorous stress tests prior to commercial certification.",
+    "exampleZh": "每个飞机部件在获得商用认证前都必须通过严苛的压力测试。"
+  },
+  {
+    "id": "cet6_142",
+    "word": "skeptical",
+    "phonetic": "/ˈskeptɪkl/",
+    "meanings": [
+      "adj. 持怀疑态度的，多疑的"
+    ],
+    "exampleEn": "Scientists remain skeptical until independent teams successfully replicate the experimental outcome.",
+    "exampleZh": "在独立团队成功复现实验结果之前，科学家们仍持怀疑态度。"
+  },
+  {
+    "id": "cet6_143",
+    "word": "stagnant",
+    "phonetic": "/ˈstæɡnənt/",
+    "meanings": [
+      "adj. 停滞不前的，不景气的"
+    ],
+    "exampleEn": "Without continuous skill upgrading, mid-career wages may become stagnant.",
+    "exampleZh": "如果不持续更新技能，职业生涯中期的薪资可能会停滞不前。"
+  },
+  {
+    "id": "cet6_144",
+    "word": "stringent",
+    "phonetic": "/ˈstrɪndʒənt/",
+    "meanings": [
+      "adj. 严格的，严厉的，紧缩的"
+    ],
+    "exampleEn": "Stricter emissions rules impose stringent standards on newly manufactured passenger vehicles.",
+    "exampleZh": "更严格的排放法规对新生产的乘用车提出了严苛标准。"
+  },
+  {
+    "id": "cet6_145",
+    "word": "subsidize",
+    "phonetic": "/ˈsʌbsɪdaɪz/",
+    "meanings": [
+      "v. 补贴，资助"
+    ],
+    "exampleEn": "Municipal governments subsidize public transit to keep commuting affordable for all residents.",
+    "exampleZh": "市政府补贴公共交通，使所有居民都能负担得起通勤费用。"
+  },
+  {
+    "id": "cet6_146",
+    "word": "subtle",
+    "phonetic": "/ˈsʌtl/",
+    "meanings": [
+      "adj. 微妙的，细微的，巧妙的"
+    ],
+    "exampleEn": "Careful readers notice subtle shifts in the author’s tone between the opening and final paragraphs.",
+    "exampleZh": "细心的读者会察觉到作者在开头段和结尾段之间微妙的语气转变。"
+  },
+  {
+    "id": "cet6_147",
+    "word": "superficial",
+    "phonetic": "/ˌsuːpəˈfɪʃl/",
+    "meanings": [
+      "adj. 肤浅的，表面的，浅层的"
+    ],
+    "exampleEn": "Skimming headlines alone gives only a superficial grasp of complex economic trends.",
+    "exampleZh": "只浏览新闻标题只能对复杂的经济趋势获得肤浅的理解。"
+  },
+  {
+    "id": "cet6_148",
+    "word": "surpass",
+    "phonetic": "/səˈpɑːs/",
+    "meanings": [
+      "v. 超越，胜过，优于"
+    ],
+    "exampleEn": "Renewable power generation is projected to surpass coal capacity sooner than once forecast.",
+    "exampleZh": "可再生能源发电量预计将比此前预测更早超越燃煤发电。"
+  },
+  {
+    "id": "cet6_149",
+    "word": "susceptible",
+    "phonetic": "/səˈseptəbl/",
+    "meanings": [
+      "adj. 易受影响的，易感（疾病）的"
+    ],
+    "exampleEn": "Sleep-deprived students are far more susceptible to seasonal colds and memory lapses.",
+    "exampleZh": "睡眠不足的学生更容易患上季节性感冒并出现记忆力减退。"
+  },
+  {
+    "id": "cet6_150",
+    "word": "tangible",
+    "phonetic": "/ˈtændʒəbl/",
+    "meanings": [
+      "adj. 有形的，切实的，可感知的"
+    ],
+    "exampleEn": "Rural broadband expansion has delivered tangible improvements in telehealth and online sales.",
+    "exampleZh": "农村宽带普及在远程医疗和线上销售方面带来了切实改善。"
+  },
+  {
+    "id": "cet6_151",
+    "word": "tentative",
+    "phonetic": "/ˈtentətɪv/",
+    "meanings": [
+      "adj. 试探性的，暂定的，犹豫的"
+    ],
+    "exampleEn": "Economists offered a tentative forecast pending the release of quarterly export figures.",
+    "exampleZh": "在季度出口数据公布前，经济学家给出了暂定预测。"
+  },
+  {
+    "id": "cet6_152",
+    "word": "transient",
+    "phonetic": "/ˈtrænziənt/",
+    "meanings": [
+      "adj. 短暂的，瞬息即逝的"
+    ],
+    "exampleEn": "Viral social-media trends are notoriously transient compared with enduring cultural classics.",
+    "exampleZh": "与历久弥新的文化经典相比，网络爆款风潮出了名地转瞬即逝。"
+  },
+  {
+    "id": "cet6_153",
+    "word": "ubiquitous",
+    "phonetic": "/juːˈbɪkwɪtəs/",
+    "meanings": [
+      "adj. 无所不在的，随处可见的"
+    ],
+    "exampleEn": "QR codes have become virtually ubiquitous across dining, transit, and museum ticketing.",
+    "exampleZh": "二维码在餐饮、交通和博物馆票务中几乎随处可见。"
+  },
+  {
+    "id": "cet6_154",
+    "word": "unanimous",
+    "phonetic": "/juˈnænɪməs/",
+    "meanings": [
+      "adj. 全体一致的，无异议的"
+    ],
+    "exampleEn": "The ethics committee reached a unanimous decision to tighten data-sharing safeguards.",
+    "exampleZh": "伦理委员会一致决定收紧数据共享安全保障措施。"
+  },
+  {
+    "id": "cet6_155",
+    "word": "unprecedented",
+    "phonetic": "/ʌnˈpresɪdentɪd/",
+    "meanings": [
+      "adj. 史无前例的，空前的"
+    ],
+    "exampleEn": "Clean-tech manufacturing has expanded at an unprecedented pace over the past five years.",
+    "exampleZh": "过去五年间，清洁技术制造业以前所未有的速度扩张。"
+  },
+  {
+    "id": "cet6_156",
+    "word": "versatile",
+    "phonetic": "/ˈvɜːsətaɪl/",
+    "meanings": [
+      "adj. 多才多艺的，多用途的，通用的"
+    ],
+    "exampleEn": "Bamboo is prized by green architects as a remarkably versatile and fast-growing material.",
+    "exampleZh": "竹子因其用途广泛且生长迅速而深受绿色建筑师青睐。"
+  },
+  {
+    "id": "cet6_157",
+    "word": "viable",
+    "phonetic": "/ˈvaɪəbl/",
+    "meanings": [
+      "adj. 可行的，能存活的，切实有效的"
+    ],
+    "exampleEn": "Plant-based packaging is becoming a commercially viable alternative to single-use plastics.",
+    "exampleZh": "植物基包装正成为一次性塑料在商业上切实可行的替代品。"
+  },
+  {
+    "id": "cet6_158",
+    "word": "volatile",
+    "phonetic": "/ˈvɒlətaɪl/",
+    "meanings": [
+      "adj. 动荡不定的，易变的，挥发性的"
+    ],
+    "exampleEn": "Investors diversified their portfolios to weather volatile international currency markets.",
+    "exampleZh": "投资者分散配置投资组合，以应对动荡的国际外汇市场。"
+  },
+  {
+    "id": "cet6_159",
+    "word": "warrant",
+    "phonetic": "/ˈwɒrənt/",
+    "meanings": [
+      "v. 值得，使有必要，证明……正当",
+      "n. 凭证，授权令"
+    ],
+    "exampleEn": "The unexpected rise in youth myopia clearly warrants coordinated action by schools and parents.",
+    "exampleZh": "青少年近视率的意外上升显然值得学校与家长协同应对。"
+  },
+  {
+    "id": "cet6_160",
+    "word": "yield",
+    "phonetic": "/jiːld/",
+    "meanings": [
+      "v. 产生，产出",
+      "v. 屈服，让步",
+      "n. 产量，收益"
+    ],
+    "exampleEn": "Patient longitudinal research often yields insights that quick polls completely overlook.",
+    "exampleZh": "耐心的长期追踪研究往往能产出快速民调完全忽略的洞见。"
+  }
+]

@@ -1,5 +1,5 @@
 name: cet6_pass_app
-description: "六级必过通 - 425压线冲刺2027年6月英语六级450+稳过离线备考神器"
+description: "六级必过通 - 极简实用本地离线大学英语六级备考 App"
 publish_to: "none"
 version: 1.0.0+1
 
@@ -21,3 +21,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icon/
+    - assets/data/
