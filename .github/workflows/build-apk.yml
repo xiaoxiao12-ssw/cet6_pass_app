@@ -40,8 +40,10 @@ jobs:
       - name: Install Dependencies
         run: flutter pub get
 
-      - name: Static Analysis
-        run: flutter analyze --no-fatal-infos
+      - name: Static Analysis & Unit Tests
+        run: |
+          flutter analyze --no-fatal-infos
+          flutter test
 
       - name: Build Release APK
         run: flutter build apk --release --android-skip-build-dependency-validation
